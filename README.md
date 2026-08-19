@@ -1,1 +1,5 @@
+# Time Series Forecasting and Predictive Analytics Dashboard
+
+This project focuses on performing **time series forecasting and predictive analytics on historical sales data using Power BI**. The project integrates sales and promotional data to analyze past sales trends and predict future sales. The data was cleaned and transformed by standardizing date formats, handling missing values, and creating a separate DateTable for time-based analysis. Relationships were created between the sales, promotion, region, and date tables. The Power BI dashboard includes interactive visualizations such as sales trends, regional sales performance, promotion analysis, KPI cards, and a time-series forecast with confidence intervals. The forecasting feature was used to estimate future sales based on historical patterns, helping businesses understand expected growth and make better decisions related to inventory, promotions, sales targets, and resource planning. The project demonstrates how Business Intelligence and predictive analytics can support data-driven decision-making in a retail environment.
+
 # 24ADC001_24BAD112_EXP_8
